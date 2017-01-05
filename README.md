@@ -11,6 +11,6 @@ In those cases where I copy code I will post a link to the source at the top of 
 
 Below is a list of some of the sources from which I've "borrowed" code and/or learned from. As I find new material I'll update the list.
 
-- Arthur Juliani for his [series of posts](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.cfza6gc0d) on Medium
+- Arthur Juliani for his [series of posts](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.cfza6gc0d) on Medium along with his [collection of examples](https://github.com/awjuliani/DeepRL-Agents).
 - OpenAI for their [Gym](https://github.com/openai/gym) and [Universe](https://github.com/openai/universe) projects and the examples they provide
 - Charles Isbell and Michael Littman for their [Udacity course on reinforcement learning](https://www.udacity.com/course/reinforcement-learning--ud600)
